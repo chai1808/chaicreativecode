@@ -53,10 +53,7 @@
       "mainTitle": "WEBサイト制作・システム運用更新",
       "subDescription":
         "旅行会社予約フォーム制作、介護福祉・製造業の会社紹介サイト制作",
-      "skills": [
-        "(1年)HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress",
-        "(7カ月)Photoshop, Illustrator, PostgreSQL, Linux"
-      ]
+      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP"]
     },
     {
       "date": "2013年6月-2013年12月",
@@ -68,7 +65,7 @@
       "date": "2013年12月-2014年1月",
       "mainTitle": "PCキッティング",
       "subDescription": "Windows XPからWindows 8のバージョンアップ",
-      "skills": ["Access VBA"]
+      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell"]
     },
     {
       "date": "2014年2月-2014年4月",
@@ -90,20 +87,20 @@
       "mainTitle": "部品在庫管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
     },
     {
       "date": "2015年4月-2015年7月",
       "mainTitle": "物流顧客管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
     },
     {
       "date": "2016年5月-2016年6月",
       "mainTitle": "製造工場内運用保守ヘルプデスク",
       "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析",
-      "skills": ["C, Linux, VBA"]
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
     },
     {
       "date": "2016年8月-2018年7月",
@@ -111,7 +108,7 @@
       "subDescription":
         "WEBサイト制作、レスポンシブ化、運用更新、画像加工、投稿記事作成、簡易ツール作成",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"
       ]
     },
     {
@@ -120,7 +117,7 @@
       "subDescription":
         "WEBサイト制作、CSSアニメーション、パフォーマンス改善、SEO最適化、改善提案、GA4・GTMタグ実装、その他運用更新、ECショップ立上げ、カスタマイズ",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla"
       ]
     }]
   },

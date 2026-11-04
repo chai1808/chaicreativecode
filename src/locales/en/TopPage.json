@@ -53,10 +53,7 @@
       "mainTitle": "Web Development / System Maintenance",
       "subDescription":
         "Developed booking forms for travel agencies; built corporate overview sites for nursing care/welfare and manufacturing companies.",
-      "skills": [
-        "(1 year) HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress",
-        "(7 months) Photoshop, Illustrator, PostgreSQL, Linux"
-      ]
+      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP"]
     },
     {
       "date": "Jun 2013 - Dec 2013",
@@ -68,7 +65,7 @@
       "date": "Dec 2013 - Jan 2014",
       "mainTitle": "PC Kitting",
       "subDescription": "OS upgrades from Windows XP to Windows 8.",
-      "skills": ["Access VBA"]
+      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell"]
     },
     {
       "date": "Feb 2014 - Apr 2014",
@@ -90,20 +87,20 @@
       "mainTitle": "Parts Inventory Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
     },
     {
       "date": "Apr 2015 - Jul 2015",
       "mainTitle": "Logistics Customer Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
     },
     {
       "date": "May 2016 - Jun 2016",
       "mainTitle": "Manufacturing Systems Support and Maintenance",
       "subDescription": "Backend system modification using C language, and log analysis.",
-      "skills": ["C, Linux, VBA"]
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
     },
     {
       "date": "Aug 2016 - Jul 2018",
@@ -111,7 +108,7 @@
       "subDescription":
         "Website development, responsive web design, maintenance, and content updates, image processing, article content creation, and simple tool development.",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"
       ]
     },
     {
@@ -120,7 +117,7 @@
       "subDescription":
         "Web Development, CSS animation, performance optimization, SEO optimization, improvement proposals, GA4/GTM tag implementation, ongoing website maintenance and support, e-commerce shop launch, and customization.",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla"
       ]
     }]
   },
