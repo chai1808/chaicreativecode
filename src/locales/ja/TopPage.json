@@ -72,9 +72,7 @@
       "mainTitle": "マッピングシステム開発",
       "subDescription":
         "システム開発、サーバ環境構築、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": [
-        "Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), JBoss7"
-      ]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), JBoss7"]
     },
     {
       "date": "2014年5月-2014年9月",
@@ -107,9 +105,7 @@
       "mainTitle": "医療コンサルにてWEBサイト制作",
       "subDescription":
         "WEBサイト制作、レスポンシブ化、運用更新、画像加工、投稿記事作成、簡易ツール作成",
-      "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"
-      ]
+      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"]
     },
     {
       "date": "2018年8月-2026年5月",

@@ -25,7 +25,7 @@ const CareerSection = () => {
                       <p>{item.subDescription}</p>
                       <ul>
                         {item.skills.map((skill, skillIndex) => (
-                          <li key={skillIndex}>・{skill}</li>
+                          <li key={skillIndex}>{skill}</li>
                         ))}
                       </ul>
                     </div>
