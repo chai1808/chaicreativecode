@@ -53,13 +53,13 @@
       "mainTitle": "Web Development / System Maintenance",
       "subDescription":
         "Developed booking forms for travel agencies; built corporate overview sites for nursing care/welfare and manufacturing companies.",
-      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP, SAKURA internet"]
+      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP, SAKURA internet, Hidemaru Editor"]
     },
     {
       "date": "Jun 2013 - Dec 2013",
       "mainTitle": "Web Development for a Newspaper Company",
       "subDescription": "System development, unit testing, integration testing, and specification document creation.",
-      "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty"]
+      "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty, Hidemaru Editor"]
     },
     {
       "date": "Dec 2013 - Jan 2014",
@@ -78,21 +78,21 @@
       "date": "May 2014 - Sep 2014",
       "mainTitle": "Service Booking System Development for Nursing Care & Welfare",
       "subDescription": "System development, unit testing, integration testing, and specification document creation.",
-      "skills": ["HTML, CSS, JavaScript, ASP.NET(C#)"]
+      "skills": ["HTML, CSS, JavaScript, ASP.NET(C#), Sakura Editor"]
     },
     {
       "date": "Oct 2014 - Feb 2015",
       "mainTitle": "Parts Inventory Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse"]
     },
     {
       "date": "Apr 2015 - Jul 2015",
       "mainTitle": "Logistics Customer Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse"]
     },
     {
       "date": "May 2016 - Jun 2016",
@@ -105,14 +105,14 @@
       "mainTitle": "Web Development at a Medical Consulting Firm",
       "subDescription":
         "Website development, responsive web design, maintenance, and content updates, image processing, article content creation, and simple tool development.",
-      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"]
+      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla, Sublime Text, VScode"]
     },
     {
       "date": "Aug 2018 - May 2026",
       "mainTitle": "Web Developer at a Boutique B2B Web Production Agency",
       "subDescription":
         "Web Development, CSS animation, performance optimization, SEO optimization, improvement proposals, GA4/GTM tag implementation, ongoing website maintenance and support, e-commerce shop launch, and customization.",
-      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla, XServer, SAKURA internet, mixhost, Lolipop, heteml, KAGOYA, Slack"]
+      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Node.js, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla, XServer, SAKURA internet, mixhost, Lolipop, heteml, KAGOYA, Slack, VScode"]
     }]
   },
   "Educational": {

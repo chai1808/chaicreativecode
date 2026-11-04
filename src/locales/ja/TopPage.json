@@ -53,13 +53,13 @@
       "mainTitle": "WEBサイト制作・システム運用更新",
       "subDescription":
         "旅行会社予約フォーム制作、介護福祉・製造業の会社紹介サイト制作",
-      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP, さくらインターネット"]
+      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP, さくらインターネット, 秀丸エディタ"]
     },
     {
       "date": "2013年6月-2013年12月",
       "mainTitle": "新聞社のWEBサイト制作",
       "subDescription": "システム開発、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty"]
+      "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty, 秀丸エディタ"]
     },
     {
       "date": "2013年12月-2014年1月",
@@ -78,21 +78,21 @@
       "date": "2014年5月-2014年9月",
       "mainTitle": "介護福祉のサービス予約システム開発",
       "subDescription": "システム開発、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["HTML, CSS, JavaScript, ASP.NET(C#)"]
+      "skills": ["HTML, CSS, JavaScript, ASP.NET(C#), サクラエディタ"]
     },
     {
       "date": "2014年10月-2015年2月",
       "mainTitle": "部品在庫管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse"]
     },
     {
       "date": "2015年4月-2015年7月",
       "mainTitle": "物流顧客管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse"]
     },
     {
       "date": "2016年5月-2016年6月",
@@ -105,7 +105,7 @@
       "mainTitle": "医療コンサルにてWEBサイト制作",
       "subDescription":
         "WEBサイト制作、レスポンシブ化、運用更新、画像加工、投稿記事作成、簡易ツール作成",
-      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla, XServer"]
+      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla, XServer, Sublime Text, VScode"]
     },
     {
       "date": "2018年8月-2026年5月",
@@ -113,7 +113,7 @@
       "subDescription":
         "WEBサイト制作、CSSアニメーション、パフォーマンス改善、SEO最適化、改善提案、GA4・GTMタグ実装、その他運用更新、ECショップ立上げ、カスタマイズ",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla, Server, さくらインターネット, mixhost, ロリポップ, heteml, KAGOYA, Slack"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Node.js, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla, Server, さくらインターネット, mixhost, ロリポップ, heteml, KAGOYA, Slack, VScode"
       ]
     }]
   },
