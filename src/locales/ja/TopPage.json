@@ -53,7 +53,7 @@
       "mainTitle": "WEBサイト制作・システム運用更新",
       "subDescription":
         "旅行会社予約フォーム制作、介護福祉・製造業の会社紹介サイト制作",
-      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP"]
+      "skills": ["HTML, CSS, JavaScript, PHP, MySQL, Smarty, WordPress, Photoshop, Illustrator, PostgreSQL, Linux, Tera Term, FFFTP, さくらインターネット"]
     },
     {
       "date": "2013年6月-2013年12月",
@@ -105,7 +105,7 @@
       "mainTitle": "医療コンサルにてWEBサイト制作",
       "subDescription":
         "WEBサイト制作、レスポンシブ化、運用更新、画像加工、投稿記事作成、簡易ツール作成",
-      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla"]
+      "skills": ["WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, PHP, jQuery, MySQL, Google Workspace, File Zilla, XServer"]
     },
     {
       "date": "2018年8月-2026年5月",
@@ -113,7 +113,7 @@
       "subDescription":
         "WEBサイト制作、CSSアニメーション、パフォーマンス改善、SEO最適化、改善提案、GA4・GTMタグ実装、その他運用更新、ECショップ立上げ、カスタマイズ",
       "skills": [
-        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla"
+        "WordPress, Illustrator, Photoshop, CSS, HTML, JavaScript, SVG, PHP, jQuery, MySQL, Laravel, Google Workspace, Google Search Console, Google Tag Manager, Google Analytics, File Zilla, Server, さくらインターネット, mixhost, ロリポップ, heteml, KAGOYA, Slack"
       ]
     }]
   },
