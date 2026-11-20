@@ -11,9 +11,11 @@ export async function reportWebVitals() {
       onTTFB,
     } = await import('web-vitals');
   
-    onLCP(console.log);
-    onINP(console.log);
-    onCLS(console.log);
-    onFCP(console.log);
-    onTTFB(console.log);
+    const noop = () => {};
+
+    onLCP(noop);
+    onINP(noop);
+    onCLS(noop);
+    onFCP(noop);
+    onTTFB(noop);
   }
