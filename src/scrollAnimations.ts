@@ -1,9 +1,6 @@
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
-const queryElement = (selector: string): HTMLElement | null =>
-  document.querySelector(selector) as HTMLElement | null
-
 const GENTLE_EASE = 'power1.out'
 
 const FAQ_GROUP_SELECTOR = 'dl.faqlist > .faqgroup'
