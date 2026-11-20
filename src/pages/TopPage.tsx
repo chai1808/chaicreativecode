@@ -5,7 +5,6 @@ import '../assets/css/TopPage.scss'
 
 import MVSketch from '../components/p5/MVSketch'
 import LazyDotsTime from '../components/p5/LazyDotsTime'
-import { setupPageShutterAnimation } from '../scrollAnimations'
 
 import FirstSection from './FirstSection'
 import CareerSection from './CareerSection'
@@ -17,9 +16,7 @@ import URLsSection from './URLsSection'
 const TopPage = () => {
   const containerRef = useRef<HTMLDivElement>(null)
 
-  useGSAP(() => {
-    setupPageShutterAnimation()
-  }, { scope: containerRef })
+  useGSAP(() => { scope: containerRef })
 
   return (
     <div ref={containerRef}>

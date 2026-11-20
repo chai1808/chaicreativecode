@@ -17,14 +17,12 @@ const setFaqUnderlineVisible = (faqGroup: HTMLElement, isVisible: boolean) => {
   })
 }
 
-/** 現在表示中の言語で -is-visible が付いている faqGroup の index を返す */
 export const collectVisibleFaqUnderlineIndices = (): number[] =>
   getFaqGroups().flatMap((faqGroup, index) => {
     const underline = faqGroup.querySelector('.answer .underline')
     return underline?.classList.contains('-is-visible') ? [index] : []
   })
 
-/** 言語切替後、同じ index の underline に -is-visible を復元する */
 export const applyFaqUnderlineVisibility = (indices: number[]): void => {
   const faqGroups = getFaqGroups()
   indices.forEach((index) => {
@@ -35,12 +33,10 @@ export const applyFaqUnderlineVisibility = (indices: number[]): void => {
 
 let pendingFaqUnderlineIndices: number[] | null = null
 
-/** 言語切替前に呼び、表示中の underline index を退避する */
 export const stashFaqUnderlineIndicesForLanguageSwitch = (): void => {
   pendingFaqUnderlineIndices = collectVisibleFaqUnderlineIndices()
 }
 
-/** FAQ 描画完了後に呼び、退避した index の underline を復元する */
 export const restoreStashedFaqUnderlineVisibility = (): void => {
   if (!pendingFaqUnderlineIndices?.length) {
     pendingFaqUnderlineIndices = null
@@ -190,38 +186,4 @@ export const setupGeneralScrollAnimations = () => {
       }
     )
   })
-}
-
-export const setupPageShutterAnimation = () => {
-  const shutter = queryElement('#pageshutter')
-  if (!shutter) return
-
-  const timeline = gsap.timeline()
-
-  timeline.to(
-    shutter,
-    {
-      duration: 2.6,
-      delay: 0.2,
-      ease: 'power1.inOut',
-      onComplete: () => {
-        shutter.style.pointerEvents = 'none'
-        shutter.style.zIndex = '-1'
-        ScrollTrigger.refresh()
-      },
-    },
-    0
-  )
-
-  const mainElement = queryElement('#main')
-  if (mainElement) {
-    timeline.from(
-      mainElement,
-      {
-        duration: 2.6,
-        ease: GENTLE_EASE,
-      },
-      0
-    )
-  }
 }
