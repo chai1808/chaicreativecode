@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useRef, useState } from 'react'
+import { importOrReload } from '../../importOrReload'
 
-const DotsTime = lazy(() => import('./DotsTime'))
+const DotsTime = lazy(() => importOrReload(() => import('./DotsTime')))
 
 const LazyDotsTime = () => {
   const containerRef = useRef<HTMLDivElement>(null)

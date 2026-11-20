@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react'
 import type p5 from 'p5'
+import { importOrReload } from '../../importOrReload'
 
 type SketchFactory = (el: HTMLElement) => (p: p5) => void
 
@@ -14,7 +15,7 @@ export const useP5Sketch = (buildSketch: SketchFactory) => {
     let cancelled = false
 
     const initSketch = async () => {
-      const { default: P5 } = await import('p5')
+      const { default: P5 } = await importOrReload(() => import('p5'))
       if (cancelled || !renderRef.current) return
 
       const sketch = buildSketch(el)

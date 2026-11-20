@@ -9,13 +9,14 @@ import {
   setupBlockScrollAnimations,
   setupGeneralScrollAnimations,
 } from './scrollAnimations'
+import { importOrReload } from './importOrReload'
 
 const App = () => {
   const mainRef = useRef<HTMLElement>(null)
 
   // シャッター演出中に p5 を先読みして MV 表示の遅延を防ぐ（クライアント限定）
   useEffect(() => {
-    void import('p5')
+    void importOrReload(() => import('p5'))
   }, [])
 
   useGSAP(

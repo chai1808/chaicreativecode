@@ -1,3 +1,5 @@
+import { importOrReload } from '../importOrReload';
+
 export async function reportWebVitals() {
     if (typeof window === 'undefined') {
       return;
@@ -9,7 +11,7 @@ export async function reportWebVitals() {
       onCLS,
       onFCP,
       onTTFB,
-    } = await import('web-vitals');
+    } = await importOrReload(() => import('web-vitals'));
   
     const noop = () => {};
 
