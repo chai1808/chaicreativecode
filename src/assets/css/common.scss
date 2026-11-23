@@ -58,10 +58,14 @@ sup { vertical-align: super; }
 sub { vertical-align: sub; }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   transition: 0.3s;
+  color: inherit;
   &:focus {
     outline: 0;
+  }
+  &:hover {
+    opacity: 0.8;
   }
 }
 
