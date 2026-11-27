@@ -63,7 +63,7 @@
     },
     {
       "date": "2013年12月-2014年1月",
-      "mainTitle": "PCキッティング",
+      "mainTitle": "ITインフラ・システム構築",
       "subDescription": "Windows XPからWindows 8のバージョンアップ、仮想化環境構築、VBA構築",
       "skills": ["Access VBA, Excel VBA, WindowsServer, Active Directory, RDS, PowerShell"]
     },
@@ -82,14 +82,14 @@
     },
     {
       "date": "2014年10月-2015年2月",
-      "mainTitle": "部品在庫管理システム開発・改修",
+      "mainTitle": "部品在庫管理システム保守・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
       "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
     },
     {
       "date": "2015年4月-2015年7月",
-      "mainTitle": "物流顧客管理システム開発・改修",
+      "mainTitle": "物流顧客管理システム保守・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
       "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
@@ -98,7 +98,7 @@
       "date": "2016年5月-2016年6月",
       "mainTitle": "製造工場内システム保守・改修",
       "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、パフォーマンスチューニング",
-      "skills": ["C, Perl, Visual Studio, TortoiseSVN"]
+      "skills": ["C, Perl, Visual Studio(Debugger/Performance Profiler), TortoiseSVN"]
     },
     {
       "date": "2016年8月-2018年7月",

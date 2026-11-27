@@ -63,7 +63,7 @@
     },
     {
       "date": "Dec 2013 - Jan 2014",
-      "mainTitle": "PC Kitting",
+      "mainTitle": "IT Infrastructure Setup and System Development",
       "subDescription": "Windows XP to Windows 8 Upgrade, Virtualization Environment Setup, and VBA Development.",
       "skills": ["Access VBA, Excel VBA, WindowsServer, Active Directory, RDS, PowerShell"]
     },
@@ -82,14 +82,14 @@
     },
     {
       "date": "Oct 2014 - Feb 2015",
-      "mainTitle": "Parts Inventory Management System Development & Modification",
+      "mainTitle": "Parts Inventory Management System Support and Maintenance",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
       "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
     },
     {
       "date": "Apr 2015 - Jul 2015",
-      "mainTitle": "Logistics Customer Management System Development & Modification",
+      "mainTitle": "Logistics Customer Management System Support and Maintenance",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
       "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
@@ -98,7 +98,7 @@
       "date": "May 2016 - Jun 2016",
       "mainTitle": "Manufacturing Systems Support and Maintenance",
       "subDescription": "Backend system modification and Performance Improvement using C language, and log analysis.",
-      "skills": ["C, Perl, Visual Studio, TortoiseSVN"]
+      "skills": ["C, Perl, Visual Studio(Debugger/Performance Profiler), TortoiseSVN"]
     },
     {
       "date": "Aug 2016 - Jul 2018",
