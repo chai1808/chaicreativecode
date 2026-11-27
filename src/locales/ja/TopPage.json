@@ -72,7 +72,7 @@
       "mainTitle": "マッピングシステム開発および環境構築",
       "subDescription":
         "システム開発、仮想化サーバ環境構築、SubVersion環境構築、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, TortoiseSVN, JBoss7"]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, SubVersion, JBoss7"]
     },
     {
       "date": "2014年5月-2014年9月",
@@ -98,7 +98,7 @@
       "date": "2016年5月-2016年6月",
       "mainTitle": "製造工場内システム保守・改修",
       "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、パフォーマンスチューニング",
-      "skills": ["C, Perl, Visual Studio, Subversion"]
+      "skills": ["C, Perl, Visual Studio, TortoiseSVN"]
     },
     {
       "date": "2016年8月-2018年7月",
