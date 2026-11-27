@@ -96,9 +96,9 @@
     },
     {
       "date": "2016年5月-2016年6月",
-      "mainTitle": "製造工場内運用保守ヘルプデスク",
-      "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、処理性能改善",
-      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
+      "mainTitle": "製造工場内システム保守・改修",
+      "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、パフォーマンスチューニング",
+      "skills": ["C, Perl, Visual Studio, Subversion"]
     },
     {
       "date": "2016年8月-2018年7月",
