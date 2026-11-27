@@ -57,22 +57,22 @@
     },
     {
       "date": "2013年6月-2013年12月",
-      "mainTitle": "新聞社のWEBサイト制作",
+      "mainTitle": "新聞社のWEBサイト制作およびRSSフィード構築",
       "subDescription": "システム開発、その他、単体テスト、結合テスト、仕様書作成",
       "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty, 秀丸エディタ"]
     },
     {
       "date": "2013年12月-2014年1月",
       "mainTitle": "PCキッティング",
-      "subDescription": "Windows XPからWindows 8のバージョンアップ",
-      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell"]
+      "subDescription": "Windows XPからWindows 8のバージョンアップおよび仮想化環境構築",
+      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell, Hyper-V"]
     },
     {
       "date": "2014年2月-2014年4月",
-      "mainTitle": "マッピングシステム開発",
+      "mainTitle": "仮想化環境にてマッピングシステム開発",
       "subDescription":
         "システム開発、サーバ環境構築、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), JBoss7"]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), Oracle VM VirtualBox, JBoss7"]
     },
     {
       "date": "2014年5月-2014年9月",
@@ -85,20 +85,20 @@
       "mainTitle": "部品在庫管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
     },
     {
       "date": "2015年4月-2015年7月",
       "mainTitle": "物流顧客管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
     },
     {
       "date": "2016年5月-2016年6月",
       "mainTitle": "製造工場内運用保守ヘルプデスク",
-      "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析",
-      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
+      "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、処理性能改善",
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7, SubVersion"]
     },
     {
       "date": "2016年8月-2018年7月",

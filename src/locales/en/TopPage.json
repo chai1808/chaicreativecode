@@ -57,22 +57,22 @@
     },
     {
       "date": "Jun 2013 - Dec 2013",
-      "mainTitle": "Web Development for a Newspaper Company",
+      "mainTitle": "Website Development and RSS Feed Implementation for a Newspaper Company",
       "subDescription": "System development, unit testing, integration testing, and specification document creation.",
       "skills": ["PHP, XML, PostgreSQL, HTML, CSS, JavaScript, Smarty, Hidemaru Editor"]
     },
     {
       "date": "Dec 2013 - Jan 2014",
       "mainTitle": "PC Kitting",
-      "subDescription": "OS upgrades from Windows XP to Windows 8.",
-      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell"]
+      "subDescription": "Windows XP to Windows 8 OS Migration and Virtualization Environment Configuration.",
+      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell, Hyper-V"]
     },
     {
       "date": "Feb 2014 - Apr 2014",
-      "mainTitle": "Mapping System Development",
+      "mainTitle": "Mapping System Development in Virtualization Environment Configuration",
       "subDescription":
         "System development, server environment configuration, unit testing, integration testing, and specification document creation.",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), JBoss7"]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), Oracle VM VirtualBox, JBoss7"]
     },
     {
       "date": "May 2014 - Sep 2014",
@@ -85,20 +85,20 @@
       "mainTitle": "Parts Inventory Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
     },
     {
       "date": "Apr 2015 - Jul 2015",
       "mainTitle": "Logistics Customer Management System Development & Modification",
       "subDescription":
         "SQL tuning using Oracle, system modification using Java, debugging, and specification document creation.",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
     },
     {
       "date": "May 2016 - Jun 2016",
       "mainTitle": "Manufacturing Systems Support and Maintenance",
-      "subDescription": "Backend system modification using C language, and log analysis.",
-      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
+      "subDescription": "Backend system modification and Performance Improvement using C language, and log analysis.",
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7, SubVersion"]
     },
     {
       "date": "Aug 2016 - Jul 2018",
