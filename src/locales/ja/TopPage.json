@@ -64,15 +64,15 @@
     {
       "date": "2013年12月-2014年1月",
       "mainTitle": "PCキッティング",
-      "subDescription": "Windows XPからWindows 8のバージョンアップおよび仮想化環境構築",
-      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell, Hyper-V"]
+      "subDescription": "Windows XPからWindows 8のバージョンアップ、仮想化環境構築、VBA構築",
+      "skills": ["Access VBA, Excel VBA, WindowsServer, Active Directory, RDS, PowerShell"]
     },
     {
       "date": "2014年2月-2014年4月",
-      "mainTitle": "マッピングシステム開発",
+      "mainTitle": "マッピングシステム開発および環境構築",
       "subDescription":
         "システム開発、仮想化サーバ環境構築、SubVersion環境構築、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, SubVersion, JBoss7"]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, TortoiseSVN, JBoss7"]
     },
     {
       "date": "2014年5月-2014年9月",
@@ -98,7 +98,7 @@
       "date": "2016年5月-2016年6月",
       "mainTitle": "製造工場内運用保守ヘルプデスク",
       "subDescription": "C言語を使ったバックエンドシステム改修、ログ解析、処理性能改善",
-      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7, SubVersion"]
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
     },
     {
       "date": "2016年8月-2018年7月",

@@ -64,15 +64,15 @@
     {
       "date": "Dec 2013 - Jan 2014",
       "mainTitle": "PC Kitting",
-      "subDescription": "Windows XP to Windows 8 OS Migration and Virtualization Environment Configuration.",
-      "skills": ["Access VBA, Excel VBA, WindowsServer, PowerShell, Hyper-V"]
+      "subDescription": "Windows XP to Windows 8 Upgrade, Virtualization Environment Setup, and VBA Development.",
+      "skills": ["Access VBA, Excel VBA, WindowsServer, Active Directory, RDS, PowerShell"]
     },
     {
       "date": "Feb 2014 - Apr 2014",
-      "mainTitle": "Mapping System Development",
+      "mainTitle": "Mapping System Development and Environment Setup",
       "subDescription":
         "System development, Virtualized Server Environment Setup, Subversion Environment Configuration, unit testing, integration testing, and specification document creation.",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, SubVersion, JBoss7"]
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, TortoiseSVN, JBoss7"]
     },
     {
       "date": "May 2014 - Sep 2014",
@@ -98,7 +98,7 @@
       "date": "May 2016 - Jun 2016",
       "mainTitle": "Manufacturing Systems Support and Maintenance",
       "subDescription": "Backend system modification and Performance Improvement using C language, and log analysis.",
-      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7, SubVersion"]
+      "skills": ["C, VBA, Eclipse, GNOME, Red Hat Enterprise Linux 7"]
     },
     {
       "date": "Aug 2016 - Jul 2018",
