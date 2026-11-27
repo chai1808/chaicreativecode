@@ -69,10 +69,10 @@
     },
     {
       "date": "2014年2月-2014年4月",
-      "mainTitle": "仮想化環境にてマッピングシステム開発",
+      "mainTitle": "マッピングシステム開発",
       "subDescription":
-        "システム開発、サーバ環境構築、その他、単体テスト、結合テスト、仕様書作成",
-      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), Oracle VM VirtualBox, JBoss7"]
+        "システム開発、仮想化サーバ環境構築、SubVersion環境構築、その他、単体テスト、結合テスト、仕様書作成",
+      "skills": ["Java, MySQL, HTML, CSS, JavaScript, Servlet, Linux(CentOS), VMware, SubVersion, JBoss7"]
     },
     {
       "date": "2014年5月-2014年9月",
@@ -85,14 +85,14 @@
       "mainTitle": "部品在庫管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
     },
     {
       "date": "2015年4月-2015年7月",
       "mainTitle": "物流顧客管理システム開発・改修",
       "subDescription":
         "Oracleを使ったSQLチューニング、Javaを使ったシステム改修、その他、デバッグ・仕様書作成",
-      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce, SubVersion"]
+      "skills": ["HTML, CSS, Java, JavaScript, Oracle, Linux, JSP, Excel, Eclipse, Salesforce"]
     },
     {
       "date": "2016年5月-2016年6月",
